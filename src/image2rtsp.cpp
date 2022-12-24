@@ -1,7 +1,7 @@
 #include <string>
 #include <stdio.h>
 #include <nodelet/nodelet.h>
-#include <pluginlib/class_list_macros.h>
+#include <pluginlib/class_list_macros.hpp>
 #include <gst/gst.h>
 #include <gst/app/gstappsrc.h>
 #include <gst/rtsp-server/rtsp-server.h>
